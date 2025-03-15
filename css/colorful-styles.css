@@ -1,0 +1,37 @@
+/* Colorful Styles for the Web Page */
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    color: #333; /* Dark text color */
+}
+
+h1, h2, h3 {
+    color: #ff6347; /* Tomato color for headings */
+}
+
+p {
+    color: #4682b4; /* Steel blue for paragraphs */
+}
+
+.button {
+    background-color: #32cd32; /* Lime green for buttons */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #228b22; /* Darker green on hover */
+}
+
+.card {
+    background-color: #fff; /* White background for cards */
+    border: 2px solid #ff6347; /* Tomato border */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+}
